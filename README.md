@@ -12,7 +12,7 @@
 * **Mã môn học:** IT004
 * **Mã lớp:** IT004.Q17
 * **Năm học:** HK1 (2025 - 2026)
-* **Giảng viên**: ThS.Đỗ Thị Minh Phụng
+* **Giảng viên**: ThS. Đỗ Thị Minh Phụng
 
 
 ## QUÁ TRÌNH
